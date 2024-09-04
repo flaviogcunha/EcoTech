@@ -65,11 +65,6 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 
 
 
-* <p>
-      <img align="left" title="java-logo" height="30px" src="https://github.com/gubasssss/ThothTech-2/blob/main/Chave%20de%20Ankh/static/java-logo.png"/>
-   Java 
- </p>
-
  * <p>
        <img align="left" title="figma-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png"/>  Figma 
  </p>
