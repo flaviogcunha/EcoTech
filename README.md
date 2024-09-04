@@ -50,12 +50,14 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 
 
  * <p>
-       <img align="left" title="figma-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png"/>  Figma 
+        Figma 
  </p>
 
  * <p>
-      <img align="left" title="github-dark" height="30px" src="https://user-images.githubusercontent.com/76211125/227561942-1503fb74-eb8e-41d1-936e-bf22bc2d70eb.png#gh-dark-mode-only"/>
-     GitHub 
+        GitHub 
+ </p>
+  * <p>
+        JavaScript
  </p>
 
     
