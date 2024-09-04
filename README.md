@@ -18,7 +18,7 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 <h2 aling="center"> 🔍Visão geral </h2>
 
    
- O projeto Chave de Ankh visa criar um sistema de chat inteligente que permitirá aos usuários realizar consultas em um banco de dados por meio de linguagem natural convertida em consultas SQL. A IA (Inteligência Artificial) integrada ao sistema será capaz de entender e interpretar as perguntas dos usuários, traduzindo-as para comandos SQL para recuperar informações relevantes do banco de dados.
+ O projeto EcoTech tem como objetivo criar um aplicativo inovador que promove a eficiência energética e a sustentabilidade. O aplicativo visa fornecer ferramentas e recursos para monitorar, analisar e otimizar o consumo de energia em residências, empresas e comunidades. O EcoTech pretende facilitar a adoção de práticas sustentáveis, como o uso de fontes renováveis e tecnologias inteligentes, além de incentivar a mudança de comportamentos em prol de um consumo mais responsável.
 
  
 <span id="solucao">
