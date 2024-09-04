@@ -4,12 +4,11 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 
 <p align="center">
     <a href="#visao"> Visão geral </a> | 
-    <a href="#solucao">Solução proposta</a> |
-    <a href="#mvp">MVP</a> |  
+    <a href="#solucao">Solução proposta</a> | 
     <a href="#backlog">Backlog</a> | 
     <a href="#sprint">Relatório das sprints</a> | 
     <a href="#tecnologia">Tecnologias utilizadas</a> | 
-    <a href="#time">Time</a> | 
+    
 
  
 
