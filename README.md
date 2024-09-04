@@ -6,7 +6,6 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
     <a href="#visao"> Visão geral </a> | 
     <a href="#solucao">Solução proposta</a> | 
     <a href="#backlog">Backlog</a> | 
-    <a href="#sprint">Relatório das sprints</a> | 
     <a href="#tecnologia">Tecnologias utilizadas</a> | 
     
 
@@ -42,21 +41,6 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 | 3 | 3 | Eu como cliente,	quero poder mudar e utilizar diferentes bancos de dados na interface do chatbot | Banco de Dados | 7h |:white_check_mark:   | 8 |
 | 4 | 4 | Eu como cliente,quero uma interface limpa e fácil de ser utilizada | ChatBot   | 4h | :white_check_mark:  | 6 |
 | 4 | 5 | Eu como cliente,quero poder utilizar outras opções de inteligência artificial dentro da interface do chatbot | ChatBot   | 9h| :white_check_mark:          |9 |
-
-
-<span id="sprint">
-    
-## 🧷Sprints
-
-
- 
- ### <a href="./Relatórios/Sprint 1.md">1️⃣SPRINT 1 - 14/04/2024</a>
-
- ### <a href="./Relatórios/Sprint 2.md">2️⃣SPRINT 2 - 05/05/2024</a>
-
- ### <a href="./Relatórios/Sprint 3.md"> 3️⃣SPRINT 3 - 26/05/2024</a>
-
- ### <a href="./Relatórios/Sprint 4.md"> 4️⃣SPRINT 4 - 16/06/2024</a>
 
 
 <span id="tecnologia">
