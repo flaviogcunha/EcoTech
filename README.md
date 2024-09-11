@@ -37,10 +37,10 @@ Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de conf
 
 | Sprint | Tarefas |  User Story   | Item |  Tempo Estimado   | Status   | Dificuldade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 2 | 2 | Eu como cliente, desejo poder converter instruções em linguagem natural,para linguagem de máquina e obter as informações correspondentes do banco de dados. | Banco de Dados | 12h | :white_check_mark:| 7 |
-| 2 | 2 | Eu como cliente, quero uma interface já utilizavel no ChatBot. | ChatBot | 8h | :white_check_mark:| 5 |
-| 3 | 3 | Eu como cliente,	quero poder mudar e utilizar diferentes bancos de dados na interface do chatbot | Banco de Dados | 7h | ❌  | 8 |
-| 4 | 4 | Eu como cliente,quero uma interface limpa e fácil de ser utilizada | ChatBot   | 4h | :white_check_mark:  | 6 |
+| 2 | 2 | Como um usuário, eu quero ver um gráfico básico do meu consumo de energia diário e mensal para ter uma visão geral de como estou utilizando a energia. | Banco de Dados | 8h | ❌| 4 |
+| 2 | 2 | Como um usuário, eu quero acessar um histórico básico de consumo de energia para revisar o quanto eu gastei em diferentes períodos e comparar com os meses anteriores. | ChatBot | 6h |❌ | 3 |
+| 3 | 3 | Como um usuário, eu quero receber dicas simples e diretas sobre como economizar energia, para melhorar a eficiência energética sem precisar de configurações complexas. | 6h | ❌  | 3 |
+| 4 | 4 | Eu como cliente,quero uma interface limpa e fácil de ser utilizada | ChatBot   | 4h |  ❌ | 6 |
 | 4 | 5 | Eu como cliente,quero poder utilizar outras opções de inteligência artificial dentro da interface do chatbot | ChatBot   | 9h|   ❌       |9 |
 
 
