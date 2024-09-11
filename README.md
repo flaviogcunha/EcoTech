@@ -25,7 +25,8 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
     
 <h2 aling="center">🎯Solução Proposta </h2>
 
- Imagine um cliente que precisa extrair informações específicas de um banco de dados, mas não possui conhecimento técnico em SQL ou está enfrentando dificuldades para formular consultas precisas. O Chave de Ankh surge como uma resposta a essa necessidade, oferecendo um sistema de chat inteligente que permite aos usuários expressarem suas consultas em linguagem natural. Através de uma interface amigável e intuitiva, os usuários podem fazer perguntas como se estivessem conversando com um colega de trabalho, e o sistema traduz essas perguntas em consultas SQL para recuperar os dados desejados de forma eficiente e precisa.
+  solução proposta para o projeto EcoTech é desenvolver um aplicativo que serve como uma plataforma integrada para gerenciar e otimizar o consumo de energia de forma eficiente e sustentável. O aplicativo terá várias funcionalidades que atendem a diferentes necessidades, desde o monitoramento em tempo real até a implementação de práticas sustentáveis.
+Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de configuração intuitivo que permitirá a personalização do aplicativo de acordo com suas necessidades específicas. Através de sensores conectados e integração com dispositivos inteligentes, o aplicativo será capaz de monitorar o consumo de energia em tempo real, oferecendo uma visão detalhada e clara de como a energia está sendo utilizada em cada ambiente..
 <span id="mvp">
 
 </p>
