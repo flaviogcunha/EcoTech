@@ -26,7 +26,7 @@ EcoTech: Maximizando a Eficiência Energética com Tecnologia Sustentável. Obje
 <h2 aling="center">🎯Solução Proposta </h2>
 
   A solução proposta para o projeto EcoTech é desenvolver um aplicativo que serve como uma plataforma integrada para gerenciar e otimizar o consumo de energia de forma eficiente e sustentável. O aplicativo terá várias funcionalidades que atendem a diferentes necessidades, desde o monitoramento em tempo real até a implementação de práticas sustentáveis.
-Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de configuração intuitivo que permitirá a personalização do aplicativo de acordo com suas necessidades específicas. Através de sensores conectados e integração com dispositivos inteligentes, o aplicativo será capaz de monitorar o consumo de energia em tempo real, oferecendo uma visão detalhada e clara de como a energia está sendo utilizada em cada ambiente..
+Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de configuração intuitivo que permitirá a personalização do aplicativo de acordo com suas necessidades específicas.
 <span id="mvp">
 
 </p>
