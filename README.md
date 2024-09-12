@@ -44,7 +44,7 @@ Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de conf
 | 3 | 5 | Como um usuário, eu quero definir metas de economia de energia e acompanhar meu progresso em direção a essas metas, para ter um objetivo claro e simples de alcançar. | Javascript   | 8h|   ❌       |4 |
 | 3 | 6 | Como um usuário, eu quero usar uma calculadora simples para estimar quanto posso economizar com mudanças específicas no consumo de energia, para avaliar rapidamente o impacto das minhas ações. | Javascript   | 10h|   ❌       |5 |
 | 4 | 7| Como um usuário, eu quero configurar um perfil de consumo padrão para diferentes tipos de atividades (trabalho, lazer, etc.), para comparar facilmente como o consumo varia entre eles. | Javascript   | 19h|   ❌       |7 |
-| 4 | 7| Como um usuário, eu quero ver uma visualização simples de quanto eu economizei em relação ao mês passado, para ter uma ideia clara dos benefícios das minhas práticas de economia de energia. | Javascript   | 9h|   ❌       |3 |
+| 4 | 8| Como um usuário, eu quero ver uma visualização simples de quanto eu economizei em relação ao mês passado, para ter uma ideia clara dos benefícios das minhas práticas de economia de energia. | Javascript   | 9h|   ❌       |3 |
 
 
 <span id="tecnologia">
