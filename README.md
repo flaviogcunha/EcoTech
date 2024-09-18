@@ -37,14 +37,15 @@ Ao iniciar o uso do EcoTech, os usuários serão guiados por um processo de conf
 
 | Sprint | Tarefas |  User Story   | Item |  Tempo Estimado   | Status   | Dificuldade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 2 | 1 | Como um usuário, eu quero ver um gráfico básico do meu consumo de energia diário e mensal para ter uma visão geral de como estou utilizando a energia. | Html,Css e Javascript | 8h | ❌| 4 |
-| 2 | 2 | Como um usuário, eu quero acessar um histórico básico de consumo de energia para revisar o quanto eu gastei em diferentes períodos e comparar com os meses anteriores. | Banco de Dados | 6h |❌ | 3 |
-| 3 | 3 | Como um usuário, eu quero receber dicas simples e diretas sobre como economizar energia, para melhorar a eficiência energética sem precisar de configurações complexas. | Javascript| 6h | ❌  | 3 |
-| 3 | 4 | Como um usuário, eu quero receber notificações quando meu consumo de energia estiver acima de um determinado limite, para que eu possa investigar e ajustar meu uso. | JavaScript   | 14h |  ❌ | 6 |
-| 3 | 5 | Como um usuário, eu quero definir metas de economia de energia e acompanhar meu progresso em direção a essas metas, para ter um objetivo claro e simples de alcançar. | Javascript   | 8h|   ❌       |4 |
-| 3 | 6 | Como um usuário, eu quero usar uma calculadora simples para estimar quanto posso economizar com mudanças específicas no consumo de energia, para avaliar rapidamente o impacto das minhas ações. | Javascript   | 10h|   ❌       |5 |
-| 4 | 7| Como um usuário, eu quero configurar um perfil de consumo padrão para diferentes tipos de atividades (trabalho, lazer, etc.), para comparar facilmente como o consumo varia entre eles. | Javascript   | 19h|   ❌       |7 |
-| 4 | 8| Como um usuário, eu quero ver uma visualização simples de quanto eu economizei em relação ao mês passado, para ter uma ideia clara dos benefícios das minhas práticas de economia de energia. | Javascript   | 9h|   ❌       |3 |
+| 2 | 1 | Eu como cliente quero um protótipo inicial para o meu projeto | 6h | ❌| 2 |
+| 2 | 2 | Como um usuário, eu quero ver um gráfico básico do meu consumo de energia diário e mensal para ter uma visão geral de como estou utilizando a energia. | Html,Css e Javascript | 8h | ❌| 4 |
+| 2 | 3 | Como um usuário, eu quero acessar um histórico básico de consumo de energia para revisar o quanto eu gastei em diferentes períodos e comparar com os meses anteriores. | Banco de Dados | 6h |❌ | 3 |
+| 3 | 4 | Como um usuário, eu quero receber dicas simples e diretas sobre como economizar energia, para melhorar a eficiência energética sem precisar de configurações complexas. | Javascript| 6h | ❌  | 3 |
+| 3 | 5 | Como um usuário, eu quero receber notificações quando meu consumo de energia estiver acima de um determinado limite, para que eu possa investigar e ajustar meu uso. | JavaScript   | 14h |  ❌ | 6 |
+| 3 | 6 | Como um usuário, eu quero definir metas de economia de energia e acompanhar meu progresso em direção a essas metas, para ter um objetivo claro e simples de alcançar. | Javascript   | 8h|   ❌       |4 |
+| 3 | 7 | Como um usuário, eu quero usar uma calculadora simples para estimar quanto posso economizar com mudanças específicas no consumo de energia, para avaliar rapidamente o impacto das minhas ações. | Javascript   | 10h|   ❌       |5 |
+| 4 | 8| Como um usuário, eu quero configurar um perfil de consumo padrão para diferentes tipos de atividades (trabalho, lazer, etc.), para comparar facilmente como o consumo varia entre eles. | Javascript   | 19h|   ❌       |7 |
+| 4 | 9| Como um usuário, eu quero ver uma visualização simples de quanto eu economizei em relação ao mês passado, para ter uma ideia clara dos benefícios das minhas práticas de economia de energia. | Javascript   | 9h|   ❌       |3 |
 
 
 <span id="tecnologia">
